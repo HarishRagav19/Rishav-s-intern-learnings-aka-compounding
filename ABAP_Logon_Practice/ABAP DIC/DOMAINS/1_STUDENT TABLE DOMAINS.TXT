@@ -1,6 +1,0 @@
-1. ZDO_STU_ID           -> Domain_Student ID 
-2. ZDO_STU_NAME         -> Domain_student name 
-3. ZDO_STU_DOB          -> Domain_Student DOB 
-4. ZDO_STU_QUOTA        -> Domain_Student Quota 
-5. ZDO_STU_GRADE_HR19   -> Domain_student Grade 
-6. ZDO_STU_DEPT_HR19    -> Domain_Student Dept_hr19 
