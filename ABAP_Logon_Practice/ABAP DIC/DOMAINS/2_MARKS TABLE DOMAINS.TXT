@@ -1,0 +1,5 @@
+1. ZDO_STU_ID                   -> Domain_Student ID 
+2. ZDO_MARKS_SUB_CODE_HR19      -> Subject Code for marks table hr19 
+3. ZDO_MARKS_OBTAINED_HR19      -> Marks obtained for marks table 
+4. ZDO_MARKS_MAX_MARKS_HR19     -> Total marks of the subject 
+5. ZDO_MARKS_EXAM_CATEGORY_HR19 -> Exam Category for marks table hr19 

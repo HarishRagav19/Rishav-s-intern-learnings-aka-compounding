@@ -1,0 +1,3 @@
+TABLE NAME
+    ZDT_MARKS_T_HR19
+
