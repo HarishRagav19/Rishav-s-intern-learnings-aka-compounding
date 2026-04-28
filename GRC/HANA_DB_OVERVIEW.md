@@ -412,6 +412,6 @@ Think of it like:
 
 #### ROW VS COLUMN DB
 
-<center> <img src="images/column_db_vs_row_db.png" width="50%"> </center>
+<center> <img src="images/Column_DB_vs_Row_DB.png" width="50%"> </center>
 
 ---
