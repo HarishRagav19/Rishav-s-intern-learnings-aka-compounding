@@ -77,7 +77,7 @@ The main features of SAP HANA in-memory database are −
 
 If SAP HANA used **only RAM with no persistence**, it would be a disaster (one power cut = total data loss). That’s **not how it actually works**.
 
-![SAP HANA working](images/SAP_HANA_WORKING.png)
+![SAP HANA working](Hana_images/SAP_HANA_WORKING.png)
 
 ### 🧠 First Truth (Important)
 
@@ -412,6 +412,6 @@ Think of it like:
 
 #### ROW VS COLUMN DB
 
-<center> <img src="images/Column_DB_vs_Row_DB.png" width="50%"> </center>
+<center> <img src="Hana_images/Column_DB_vs_Row_DB.png" width="50%"> </center>
 
 ---
